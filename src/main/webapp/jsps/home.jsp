@@ -15,6 +15,8 @@
 <h1 align="center">Hare Krishna Jai Jagannath Jai Balaram Jai Govinda....</h1>
 <h1 align="center">Hi All, I am Venkat... Practising the Jenkins.....</h1>
 <h1>Taking 90 days challenge for to become the DevOps Pro...</h1>
+<h1>Hare Krishna Hare Krishna Krishna Krishna Hare Hare</h1>
+<h1>Hare Rama Hare Rama Rama Rama Hare Hare</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
