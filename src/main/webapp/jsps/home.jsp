@@ -18,6 +18,7 @@
 <h1>Hare Krishna Hare Krishna Krishna Krishna Hare Hare</h1>
 <h1>Hare Rama Hare Rama Rama Rama Hare Hare</h1>
 <h2 align="left">Chant Hare Krishna and Be Happy </h2>
+<h2>Be Proactive</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
