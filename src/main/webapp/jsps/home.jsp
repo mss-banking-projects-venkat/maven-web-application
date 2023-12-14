@@ -13,7 +13,8 @@
 <h1 align="center"> New Terraform Batch will start on Nov 10th at 8 AM IST - Contact 9980923226/9980923216 or devopstrainingblr@gmail.com</h1> 
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <h1 align="center">Hare Krishna Jai Jagannath Jai Balaram Jai Govinda....</h1>
-<h1 align="center">Hi, All I am Venkat... Practising the Jenkins.....</h1>
+<h1 align="center">Hi All, I am Venkat... Practising the Jenkins.....</h1>
+<h1>Taking 90 days challenge for to become the DevOps Pro...</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
