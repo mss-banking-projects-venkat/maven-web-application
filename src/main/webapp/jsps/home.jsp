@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Mithun Technologies Pvt Ltd. Ph No: +91-9980923226  Bengaluru,Karnataka </h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Bangalore India.Teaching Real Time scenarios</h1>
-<h1>For Docker and Kuberentes special trainings are available...</h1>
+<h1>For Docker and Kuberenetes special trainings are also available...</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
