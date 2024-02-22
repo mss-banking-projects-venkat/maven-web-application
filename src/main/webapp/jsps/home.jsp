@@ -13,6 +13,7 @@
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Bangalore India.Teaching Real Time scenarios</h1>
 <h1>For Docker and Kuberenetes special trainings are also available...</h1>
 <h1>Practicing the ECR concepts with Docker....</h1>
+<h1>Practicing second time for the Docker Assignments</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
