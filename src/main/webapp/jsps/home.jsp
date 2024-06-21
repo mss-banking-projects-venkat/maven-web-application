@@ -20,6 +20,7 @@
 <h2 align="right">Chant Hare Krishna and Be Happy </h2>
 <h2> Adding new line on 21-06-2024 and added github webhooks </h2>
 <h2>Hare Krishna ...</h2>
+<h2>Practiced the Scripgted way pipeline 21-06-2024...</h2>
 <h2 align="right">Be Proactive</h2>
 <h1 style="color:blue;font-family: verdana;">Completd the Scripted Way Pipeline</h1>
 <hr>
