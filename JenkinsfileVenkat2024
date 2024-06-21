@@ -1,0 +1,31 @@
+node {
+    
+    properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '6', daysToKeepStr: '', numToKeepStr: '')), [$class: 'JobLocalConfiguration', changeReasonComment: ''], pipelineTriggers([pollSCM('* * * * * ')])])
+    
+    def mavenHome = tool name: 'Maven'
+    
+    stage ('Git Checkout stage'){
+        
+        git branch: 'development', credentialsId: '6f24b4ba-4754-4462-947e-9d1ef5ac29be', url: 'https://github.com/mss-banking-projects-venkat/maven-web-application.git'
+    }
+    
+    stage ('Build'){
+        
+        sh "${mavenHome}/bin/mvn clean package"
+    }
+    
+    stage ('Upload Into Nexus'){
+        
+        sh "${mavenHome}/bin/mvn clean deploy"
+    }
+    
+    stage ('DeployToTomcat'){
+        
+        sshagent(['9ec35c80-6d05-4a24-998d-fc468c630647']) {
+             
+             sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@172.31.34.36:/opt/apache-tomcat-9.0.89/webapps/ "
+      }
+    }
+    
+    
+}
