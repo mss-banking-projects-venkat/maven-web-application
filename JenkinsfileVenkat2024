@@ -9,7 +9,7 @@ node {
     
     stage ('Git Checkout stage'){
         
-        git branch: 'development', credentialsId: '6f24b4ba-4754-4462-947e-9d1ef5ac29be', url: 'https://github.com/mss-banking-projects-venkat/maven-web-application.git'
+        git branch: 'sit', credentialsId: '6f24b4ba-4754-4462-947e-9d1ef5ac29be', url: 'https://github.com/mss-banking-projects-venkat/maven-web-application.git'
     }
     
     stage ('Build'){
