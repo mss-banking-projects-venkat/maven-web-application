@@ -24,6 +24,7 @@
 <h2>added the Timestamp as well...</h2>
 <h2>added the jenkins files custom one..</h2>
 <h2>Added the slack Notifications....</h2>
+<h2>Adding from the SIT branch..</h2>
 <h2>-----------------</h2>
 <h2>Practiced the Declarative pipeline as well....</h2>
 
